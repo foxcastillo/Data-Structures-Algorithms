@@ -1,3 +1,6 @@
+# Edgar Barrera / Github: https://github.com/EdgarCastillo101/EdgarCastillo101
+# Copyright (c) 2021 Edgar Barrera
+
 from array import *
 
 #1) Create an array and tranverse.
@@ -73,10 +76,7 @@ print(my_array.count(11))
 #strTemp = my_array.tostring()
 #print()
 
-#14) Convert array to a python list with same elements using tolist() method
 
-#15) Append a string to char array using fromstring() method
-
-#16) Slice elements from an array
-print("step 16:")
+#14) Slice elements from an array
+print("step 14:")
 print(my_array[:4])
