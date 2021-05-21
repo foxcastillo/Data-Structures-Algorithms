@@ -2,11 +2,30 @@
 
 ## Basics/Must know:
 
-#### Big O Notation
+#### Big O Notation:
 
-#### Big Ω Omega Notation
+#### Big Ω Omega Notation:
 
-#### Theta Θ Notation
+#### Theta Θ Notation:
+
+## Big O Notation Order:
+#### O(1) – constant time
+#### O(log n) – logarithmic time
+#### O(n) – linear time
+#### O(n log n) – quasilinear time
+#### O(n²) – quadratic time
+
+## What does these notations mean?
+
+#### O(1):Constant Time
+
+#### O(n):Linear Time
+
+#### O(n²):Quadratic Time
+
+#### O(log n):Logarithmic Time
+
+#### O(n log n):Quasilinear Time
 
 ## Data Structures:
 
