@@ -64,7 +64,7 @@
 
 #### Bucket Sort
 
-### Graph Algorithms
+## Graph Algorithms
 
 #### Depth First Search
 
