@@ -9,11 +9,11 @@
 #### Theta Θ Notation:
 
 ## Big O Notation Order:
-#### O(1) – constant time
-#### O(log n) – logarithmic time
-#### O(n) – linear time
-#### O(n log n) – quasilinear time
-#### O(n²) – quadratic time
+#### O(1) – Constant time
+#### O(log n) – Logarithmic time
+#### O(n) – Linear time
+#### O(n log n) – Quasilinear time
+#### O(n²) – Quadratic time
 
 ## What does these notations mean?
 
