@@ -6,6 +6,7 @@
 Big O notation is a symbolism used to define the asymptotic action of functions in complexity theory, computer science, and mathematics. It essentially shows you how quickly a role expands or declines.
 
 #### Big Ω Omega Notation:
+The big Omega() function, which is similar to big O notation, is used in computer science to define an algorithm's output or complexity.
 
 #### Theta Θ Notation:
 
