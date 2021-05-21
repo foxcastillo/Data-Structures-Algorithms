@@ -1,3 +1,6 @@
+# Edgar Barrera / Github: https://github.com/EdgarCastillo101/EdgarCastillo101
+# Copyright (c) 2021 Edgar Barrera
+
 # Tuples is an immutable sequence of Python objects and also comparable and hashable.
 # immutable == not changeable as arrays.
 
