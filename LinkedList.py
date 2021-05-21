@@ -1,3 +1,5 @@
+# Edgar Barrera / Github: https://github.com/EdgarCastillo101/EdgarCastillo101
+# Copyright (c) 2021 Edgar Barrera
 
 # Linked List is a form of a sequential collection and it does not have to be in order.
 # A Linked List is made up of independent nodes that may contain any type of data and each node has a reference to the next node in the link.
