@@ -8,7 +8,11 @@ Big O notation is a symbolism used to define the asymptotic action of functions
 #### Big Ω Omega Notation:
 The big Omega() function, which is similar to big O notation, is used in computer science to define an algorithm's output or complexity.
 
+## Difference between Big O and Big Ω
+The difference between Big O and Big notation is that Big O is used to characterize an algorithm's worst-case running time. Big notation, on the other hand, is used to define a given algorithm's best case running time.
+
 #### Theta Θ Notation:
+The theta notation describes exact asymptotic action by bounding a function from above and below. Dropping low order terms and ignoring leading constants is an easy way to get Theta notation for an expression.
 
 ## Big O Notation Order:
 #### O(1) – Constant time
