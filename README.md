@@ -40,12 +40,16 @@ The difference between Big O and Big notation is that Big O is used to character
 A *Linked List* is a linear set of data items called nodes, each of which has a pointer pointing to the next node. It's a data structure made up of a set of nodes that together form a sequence.
 
 ### Stack
+An Abstract Data Type (ADT) is a data type that is found in almost all programming languages. It's called stack because it looks like a real-life stack, such as a deck of cards or a stack of dishes.
 
 ### Queue
+Queue is a data structure that is identical to Stacks in that it is an abstract data structure. A queue, unlike stacks, is open on both sides. The one end is often used to upload data (enqueue), while the other is always used to delete data (dequeue) (dequeue). The First-In-First-Out (FIFO) approach is used in Queue, which means that the data object that was stored first will be reached first.
 
 ### Tree
+A tree is a commonly used abstract data form that represents a hierarchical tree structure as a group of connected nodes, with a root value and subtrees of children with a parent node.
 
 ### Binary Tree
+A binary tree is a data structure that is used to store information. A binary tree has the unique property that each node can only have two children. A binary tree combines the advantages of an ordered array and a linked list, with search times comparable to those of a sorted array and insertion and deletion times comparable to those of a linked list.
 
 ### Binary Search Tree
 
