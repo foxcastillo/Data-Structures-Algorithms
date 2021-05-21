@@ -11,8 +11,6 @@ The big Omega() function, which is similar to big O notation, is used in compute
 #### Theta Θ Notation:
 The theta notation describes exact asymptotic action by bounding a function from above and below. Dropping low order terms and ignoring leading constants is an easy way to get Theta notation for an expression.
 
-https://media.geeksforgeeks.org/wp-content/uploads/AlgoAnalysis-1.png![image](https://user-images.githubusercontent.com/80984699/119179332-67f35c80-ba34-11eb-964c-54fb1c2c4037.png)
-
 
 ## Difference between Big O and Big Ω
 The difference between Big O and Big notation is that Big O is used to characterize an algorithm's worst-case running time. Big notation, on the other hand, is used to define a given algorithm's best case running time.
