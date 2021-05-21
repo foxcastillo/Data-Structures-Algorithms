@@ -32,7 +32,7 @@ The big Omega() function, which is similar to big O notation, is used in compute
 ## Data Structures:
 
 ### List
-* A *Linked List* is a linear set of data items called nodes, each of which has a pointer pointing to the next node. It's a data structure made up of a set of nodes that together form a sequence.
+A *Linked List* is a linear set of data items called nodes, each of which has a pointer pointing to the next node. It's a data structure made up of a set of nodes that together form a sequence.
 
 ### Stack
 
