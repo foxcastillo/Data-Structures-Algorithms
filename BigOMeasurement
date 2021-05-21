@@ -1,0 +1,11 @@
+How to measure the codes using Big O?
+--------------------------------------
+1) Any assignment statements and if statements that are executed once regardless of the size of the problem.
+   Complexity = O(1)
+2) A simple "for" loop from 0 to n (with no internal loops)
+   Complexity = O(n)
+3) A nested loop of the same types quadratic time complexity.
+   Complexity = O(n^2)
+4) A loop, in which the controlling parameter is divided by two at each step.
+   Complexity = O(log n)
+5) When dealing with multiple statements, just add them up

@@ -1,0 +1,15 @@
+Big O notation
+---------------
+Big O is the language and metric we use to describe the effiency of algorithms.
+It is complexity that is going to be less or equal to the worst case.
+Ex: O(N)
+
+Big Ω (Big Omega)
+------------------
+It is a complexity that is going to be at least more than the best case.
+Ex: Ω(1) 
+
+Big Theta (Big Θ)
+------------------
+It is a complexity that is within bounds of the worst and the best cases.
+Ex: Θ(n/2)

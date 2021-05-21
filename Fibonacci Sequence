@@ -1,0 +1,27 @@
+Fibonacci numbers - Recursion
+-------------------------------
+> Fibonacci sequence is a sequence of numbers in which each number is the
+  sum of two preceding ones and the sequences starts from 0 and 1.
+Ex: 0, 1, 1, 2, 3, 5, 3, 13, 21, 34, 55, 89
+(Sum of everything of the left to right)
+
+Step 1: Recursive case - the flow.
+> 5 = 3 + 2 == f(n) = f(n-1) + f(n-2)
+
+Step 2: Base case - the stopping criterion
+
+Step 3: Unintentional case - the constraint
+
+- Fibonacci(-1) ??
+- Fibonacci(1.5) ??
+
+Final:
+def fibonacci(n):
+    assert n >= 0 and int(n) == n, 'The number must be positive integer only!'
+    if n in [0,1]:
+        return n
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+
+print(fibonacci(7))
+

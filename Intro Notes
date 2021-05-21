@@ -1,0 +1,69 @@
+Primitive Data Structures
+--------------------------
+- Integer
+- Float
+- Char
+- String
+- Boolean
+
+Non-Primitive
+----------------
+Linear
+- Static > Array.
+- Dynamic > Linked list, Stack, and Queue.
+
+Non Linear
+- Tree
+- Graph
+
+Types of Algorithms
+---------------------
+- Divide and Conquer Algorithms
+> Divide the problem into smaller subproblems of the same type, and solve
+  these subproblems recursively.
+> Combine the solutions to the subproblems into a solution to the original problem.
+> Ex: Quicksort and Mergesort.
+
+- Dynamic programming Algorithms
+> Finds the best solution.
+
+- Greedy Algorithms
+> Takes the best solution without worrying about future consequences and we think that
+  global optimum will lead us to a global optimum solution.
+
+- Brute force Algorithms
+> Tries all the possibilities until we find a satisfactory solution.
+
+- Randomized Algorithms
+> Use a random number once during computerization to make a decision.
+
+Recursion
+---------------------
+> A way of solving a problem by having a function calling itself
+EX: those russian dolls lol. (BIG - average - small - tiny, etc.)
+> Performing the same operation multiple times with different inputs.
+> Every step, smaller inputs to make the problem smaller.
+> Base condition is needed to stop the recursion, otherwise, infinite loop will occur. 
+(Return statement)
+
+Why Recursion?
+---------------------
+> Helps break down big problems into smaller ones and easier to use.
+
+When to choose Recursion?
+-------------------------
+1)
+> If you can divide the problem into smaller (similar )sub problems
+> Design an algorithm to compute nth
+> Write code to list the #'s
+> Implement a method to compute all
+> PRACTICE ALL THESE.
+2) In data structures such as trees and graphs.
+3) Interviews (obviously).
+4) it's used in (Almost) in all algorithms.
+
+How does Recursion works?
+-------------------------
+> 1) A method calls itself.
+> 2) Exit from infinite loop.
+

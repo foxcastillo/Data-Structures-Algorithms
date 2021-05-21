@@ -1,0 +1,7 @@
+Algorithmitic run times complexities
+-------------------------------------
+O(1) = Constant (Accesing a specific in a array)
+O(N) = Linear (Loop through array elements)
+O(LogN) = Logarithmic (Find an element in sorted array)
+O(N^2) = Quadratic (Looking at a every index in the array twice)
+O(2^N) = Exponetial (Double recursion in Fibonacci)
