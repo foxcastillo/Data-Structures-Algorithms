@@ -1,3 +1,6 @@
+# Edgar Barrera / Github: https://github.com/EdgarCastillo101/EdgarCastillo101
+# Copyright (c) 2021 Edgar Barrera
+
 # List operations / functions
 print("first one: ")
 a = [1,2,3]
