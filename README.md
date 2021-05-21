@@ -19,13 +19,13 @@
 
 #### O(1):Constant Time
 
-#### O(n):Linear Time
-
-#### O(n²):Quadratic Time
-
 #### O(log n):Logarithmic Time
 
+#### O(n):Linear Time
+
 #### O(n log n):Quasilinear Time
+
+#### O(n²):Quadratic Time
 
 ## Data Structures:
 
