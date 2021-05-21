@@ -9,7 +9,7 @@
 #### Theta Θ Notation:
 
 ## Big O Notation Order:
-#### O(1) – Constant time
+#### O(1) – Constant time https://www.happycoders.eu/wp-content/uploads/2020/05/big-o-notation-complexity-class-on-linear-time.png
 #### O(log n) – Logarithmic time
 #### O(n) – Linear time
 #### O(n log n) – Quasilinear time
