@@ -2,7 +2,8 @@
 
 ## Basics/Must know:
 
-#### Big O Notation: Big O notation is a symbolism used to define the asymptotic action of functions in complexity theory, computer science, and mathematics. It essentially shows you how quickly a role expands or declines.
+#### Big O Notation: 
+Big O notation is a symbolism used to define the asymptotic action of functions in complexity theory, computer science, and mathematics. It essentially shows you how quickly a role expands or declines.
 
 #### Big Ω Omega Notation:
 
