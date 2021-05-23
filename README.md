@@ -55,6 +55,7 @@ A binary tree is a data structure that is used to store information. A binary tr
 A Binary Search Tree is a list of nodes that are structured in such a way that their BST properties are maintained. A key and a value are assigned to each node. The requested key is compared to the keys in BST during the scan, and if detected, the associated value is retrieved.
 
 ### Trie
+Trie is a node-based data structure that resembles a forest. Data can be stored in nodes. There can be zero, one, or more children for each node. Each node is used to store a character while the trie is used to store a vocabulary, and each “branch” of the trie represents a special word.
 
 ### Fenwick Tree
 
