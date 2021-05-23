@@ -63,6 +63,7 @@ Boris Ryabko suggested this structure in 1989, with a later revision written in 
 It was later dubbed the Fenwick tree after Peter Fenwick, who first identified it in a paper published in 1994.
 
 ### Segment Tree
+A Segment Tree is a very versatile data structure that can be used to address a wide range of problems. It is also possible to do more complicated operations and respond to more complex queries (see Advanced versions of Segment Trees). The Segment Tree, in particular, is conveniently extended to larger dimensions.
 
 ### Heap
 
