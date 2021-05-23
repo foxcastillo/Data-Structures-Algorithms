@@ -58,6 +58,9 @@ A Binary Search Tree is a list of nodes that are structured in such a way that t
 Trie is a node-based data structure that resembles a forest. Data can be stored in nodes. There can be zero, one, or more children for each node. Each node is used to store a character while the trie is used to store a vocabulary, and each “branch” of the trie represents a special word.
 
 ### Fenwick Tree
+A Fenwick tree, also known as a binary indexed tree, is a data structure that can quickly update elements in a table of numbers and determine prefix sums. 
+Boris Ryabko suggested this structure in 1989, with a later revision written in 1992. 
+It was later dubbed the Fenwick tree after Peter Fenwick, who first identified it in a paper published in 1994.
 
 ### Segment Tree
 
