@@ -52,6 +52,7 @@ A tree is a commonly used abstract data form that represents a hierarchical tree
 A binary tree is a data structure that is used to store information. A binary tree has the unique property that each node can only have two children. A binary tree combines the advantages of an ordered array and a linked list, with search times comparable to those of a sorted array and insertion and deletion times comparable to those of a linked list.
 
 ### Binary Search Tree
+A Binary Search Tree is a list of nodes that are structured in such a way that their BST properties are maintained. A key and a value are assigned to each node. The requested key is compared to the keys in BST during the scan, and if detected, the associated value is retrieved.
 
 ### Trie
 
