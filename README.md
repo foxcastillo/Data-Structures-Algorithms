@@ -5,6 +5,8 @@ In a technical interview or coding assessment, you'll almost certainly be asked 
 
 However, it is well understood that as a software developer, you would almost never encounter these issues. But it's understandable to be perplexed as to why such questions are raised in interviews and coding tests. The following characteristics are shown when solving programming problems:
 
+* You should learn of a dilemma in a logical manner and approach it step by step.
+
 ## Basics/Must know:
 
 #### Big O Notation: 
