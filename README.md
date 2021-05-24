@@ -3,6 +3,8 @@
 ## Why you Should Learn Data Structures and Algorithms
 In a technical interview or coding assessment, you'll almost certainly be asked to solve programming problems like reversing a linked list or juggling a binary tree, whether you're considering a career in software development or data science.
 
+However, it is well understood that as a software developer, you would almost never encounter these issues. But it's understandable to be perplexed as to why such questions are raised in interviews and coding tests. The following characteristics are shown when solving programming problems:
+
 ## Basics/Must know:
 
 #### Big O Notation: 
