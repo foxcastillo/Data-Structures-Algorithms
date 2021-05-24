@@ -1,5 +1,8 @@
 # Data Structures & Algorithms
 
+## Why you Should Learn Data Structures and Algorithms
+
+
 ## Basics/Must know:
 
 #### Big O Notation: 
