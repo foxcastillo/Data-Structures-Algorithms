@@ -9,7 +9,7 @@ However, it is well understood that as a software developer, you would almost ne
 * For programs you write, you can imagine various inputs, outputs, and edge cases.
 * You have the ability to clearly express your thoughts to coworkers and implement their feedback.
 * Most significantly, you can transform your thoughts and ideas into readable, functioning code.
-* In an interview, your solution to the problem is checked, not your understanding of complex data models or algorithms. You may struggle to solve the issue but still pass the interview, or the other way around. This course will teach you how to successfully overcome challenges as well as straightforward interviews.
+In an interview, your solution to the problem is checked, not your understanding of complex data models or algorithms. You may struggle to solve the issue but still pass the interview, or the other way around. This course will teach you how to successfully overcome challenges as well as straightforward interviews.
 
 ## Basics/Must know:
 
