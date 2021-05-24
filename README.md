@@ -1,7 +1,7 @@
 # Data Structures & Algorithms
 
 ## Why you Should Learn Data Structures and Algorithms
-
+In a technical interview or coding assessment, you'll almost certainly be asked to solve programming problems like reversing a linked list or juggling a binary tree, whether you're considering a career in software development or data science.
 
 ## Basics/Must know:
 
