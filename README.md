@@ -7,6 +7,8 @@ However, it is well understood that as a software developer, you would almost ne
 
 * You should learn of a dilemma in a logical manner and approach it step by step.
 * For programs you write, you can imagine various inputs, outputs, and edge cases.
+* You have the ability to clearly express your thoughts to coworkers and implement their feedback.
+
 ## Basics/Must know:
 
 #### Big O Notation: 
