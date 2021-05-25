@@ -51,7 +51,9 @@ The difference between Big O and Big notation is that Big O is used to character
 
 ## Data Structures:
 
-### List
+### Array
+
+### Linked List
 A *Linked List* is a linear set of data items called nodes, each of which has a pointer pointing to the next node. It's a data structure made up of a set of nodes that together form a sequence.
 
 ### Stack
