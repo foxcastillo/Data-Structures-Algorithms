@@ -3,8 +3,6 @@
 ## What are Data Structures?
 A data structure, in programming language, is a specific means of storing and organizing data in a computer's memory so that it can be used effectively later. Data may be organized in a variety of ways, with a data structure being the conceptual or statistical construct for a specific data organization.
 
-## Basic Operations of Data Structures
-
 ## Why you Should Learn Data Structures and Algorithms
 In a technical interview or coding assessment, you'll almost certainly be asked to solve programming problems like reversing a linked list or juggling a binary tree, whether you're considering a career in software development or data science.
 
