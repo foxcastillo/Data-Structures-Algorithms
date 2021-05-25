@@ -52,6 +52,11 @@ The difference between Big O and Big notation is that Big O is used to character
 ## Data Structures:
 
 ### Array
+The term "array" refers to a container that can accommodate a fixed number of objects of the same kind. Arrays are used by the majority of data structures to execute their algorithms. The following are some key words to know in order to grasp the idea of Array.
+
+* Element - An element is the name given to each object in an array. 
+
+* Index - A numerical index is assigned to each position of an element in an array and is used to label the element.
 
 ### Linked List
 A *Linked List* is a linear set of data items called nodes, each of which has a pointer pointing to the next node. It's a data structure made up of a set of nodes that together form a sequence.
