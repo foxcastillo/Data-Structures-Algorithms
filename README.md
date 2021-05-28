@@ -89,6 +89,9 @@ A Segment Tree is a very versatile data structure that can be used to address a 
 
 ### Heap
 A Heap is a Tree-based data structure with a full binary tree as the tree. Heaps can be divided into two categories:
+* Max-Heap: In a Max-Heap, the root node's key must be the largest of all the keys present in all of its descendants. For all sub-trees of that Binary Tree, the same property must be true recursively. 
+
+* Min-Heap: In a Min-Heap, the root node's key must be the smallest of all the keys present in all of its descendants.
 
 ### Hashing
 
