@@ -88,6 +88,7 @@ It was later dubbed the Fenwick tree after Peter Fenwick, who first identified i
 A Segment Tree is a very versatile data structure that can be used to address a wide range of problems. It is also possible to do more complicated operations and respond to more complex queries (see Advanced versions of Segment Trees). The Segment Tree, in particular, is conveniently extended to larger dimensions.
 
 ### Heap
+A Heap is a Tree-based data structure with a full binary tree as the tree. Heaps can be divided into two categories:
 
 ### Hashing
 
