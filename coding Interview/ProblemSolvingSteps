@@ -1,7 +1,16 @@
+# Edgar Castillo / Github: https://github.com/hellocastillo
+# Copyright (c) 2021 Edgar Castillo
+
 1) Listen: Pay very dose attention to any information in the problem description. You probably need it all for an optimal algorithm.
+
 2) Example: Most examples are too small or are special cases. Debug your example. Is there any way it's a special case? Is it big enough?
+
 3) Brute Force: Get a brute-force solution as soon as possible. Don't worry about developing an efficient algorithm yet State a naive algorithm and its runtime, then optimize from there.
+
 4) Optimize: Solveitmanuallyonanexample,then reverse engineer your thought process. How did you solve it?
+
 5) Walkthrough: Now that you have an optimal solution, walk through your approach in detail. Make sure you understand each detail before you start coding.
+
 6) Implement: Your goal is to write beautiful code. Modularize your code from the beginning and refactor to clean up anything that isn't beautiful.
+
 7) Test: Find bugs and fix them.
