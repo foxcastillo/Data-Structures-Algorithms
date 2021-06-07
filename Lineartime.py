@@ -1,5 +1,5 @@
-# Edgar Barrera / Github: https://github.com/EdgarCastillo101/EdgarCastillo101
-# Copyright (c) 2021 Edgar Barrera
+# Edgar Castillo / Github: https://github.com/hellocastillo
+# Copyright (c) 2021 Edgar Castillo
 
 array = [1, 2, 3, 4, 5]
 for element in array:
