@@ -1,3 +1,6 @@
+# Edgar Castillo / Github: https://github.com/hellocastillo
+# Copyright (c) 2021 Edgar Castillo
+
 def binary_search(data, target, low, high):
     if low> high:
         return False
