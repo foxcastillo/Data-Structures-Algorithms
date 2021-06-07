@@ -1,5 +1,6 @@
-# Edgar Barrera / Github: https://github.com/EdgarCastillo101/EdgarCastillo101
+# Edgar Barrera / Github: https://github.com/hellocastillo
 # Copyright (c) 2021 Edgar Barrera
+
 def sum(n):
     if n<=0:
         return 0
