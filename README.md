@@ -96,6 +96,8 @@ A Heap is a Tree-based data structure with a full binary tree as the tree. Heaps
 A cryptographic hash function is called hashing. It's a mathematical process that converts data of any size into a fixed-size hash. A hash function algorithm is intended to be a one-way function that cannot be reversed.
 
 ### Graph
+A graph is a visual depiction of a collection of items in which some elements are linked together by connections. 
+The points that connect the linked items are called vertices, and the ties that connect the vertices are called edges.
 
 ## Algorithms:
 
