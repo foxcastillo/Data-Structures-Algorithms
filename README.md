@@ -38,15 +38,15 @@ The difference between Big O and Big notation is that Big O is used to character
 
 ## What does these notations mean?
 
-#### O(1):Constant Time
+#### O(1): Constant Time
 
-#### O(log n):Logarithmic Time
+#### O(log n): Logarithmic Time
 
-#### O(n):Linear Time
+#### O(n): Linear Time
 
-#### O(n log n):Quasilinear Time
+#### O(n log n): Quasilinear Time
 
-#### O(n²):Quadratic Time
+#### O(n²): Quadratic Time
 
 ## Data Structures:
 
