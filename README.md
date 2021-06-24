@@ -111,9 +111,9 @@ The points that connect the linked items are called vertices, and the ties that 
 
 ## Graph Algorithms
 
-#### Depth First Search
+#### Depth First Search (DPS)
 
-#### Breadth First Search
+#### Breadth First Search (DFS)
 
 #### Topological Sort
 
