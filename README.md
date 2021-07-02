@@ -8,7 +8,7 @@ In a technical interview or coding assessment, you'll almost certainly be asked 
 
 However, it is well understood that as a software developer, you would almost never encounter these issues. But it's understandable to be perplexed as to why such questions are raised in interviews and coding tests. The following characteristics are shown when solving programming problems:
 
-* You should learn of a dilemma in a logical manner and approach it step by step.
+* You must learn of a dilemma in a logical manner and approach it step by step.
 * For programs you write, you can imagine various inputs, outputs, and edge cases.
 * You have the ability to clearly express your thoughts to coworkers and implement their feedback.
 * Most significantly, you can transform your thoughts and ideas into readable, functioning code.
